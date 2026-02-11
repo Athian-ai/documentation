@@ -13,3 +13,11 @@ These templates support a consistent, standardized reporting structure for proje
 * [Athian Verification Report Template v1.0](https://github.com/Athian-ai/documentation/raw/refs/heads/main/templates/Athian%20Verification%20Report%20Template%20V1.0.docx) - current version
 * [Athian Verification Statement Template v1.0](https://github.com/Athian-ai/documentation/raw/refs/heads/main/templates/Athian%20Verification%20Statement%20Template%20V1.0.docx) - current version
 
+## Athian Protocol Library
+The protocols included in this library are approved for use in an Athian program. All protocols are open to public comment upon their addition to the protocol library. Please submit any feedback using the [dedicated form](https://www.athian.ag/public-comments).
+
+* [AjiPro-L]()
+* [Alternative Manure Management - AMMP]()
+* [Bovaer]()
+* [Digester Cap & Flare]()
+* [Rumensin]()

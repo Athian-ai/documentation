@@ -16,7 +16,7 @@ These templates support a consistent, standardized reporting structure for proje
 ## Athian Protocol Library
 The protocols included in this library are approved for use in an Athian program. All protocols are open to public comment upon their addition to the protocol library. Please submit any feedback using the [dedicated form](https://www.athian.ag/public-comments).
 
-* [AjiPro-L]()
+* [AjiPro-L](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_AjiPro-L_Protocol_Feb2025.pdf)
 * [Alternative Manure Management - AMMP]()
 * [Bovaer]()
 * [Digester Cap & Flare]()

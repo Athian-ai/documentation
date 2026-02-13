@@ -4,4 +4,4 @@ description: Public library for Athian governance and protocol documentation.
 baseurl: "/documents"
 url: "https://athian-ai.github.io"
 markdown: kramdown
-theme: minimal
+

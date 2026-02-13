@@ -1,7 +1,0 @@
-title: Athian Documentation Library
-email: dory@athian.ag
-description: Public library for Athian governance and protocol documentation.
-baseurl: "/documents"
-url: "https://athian-ai.github.io"
-markdown: kramdown
-

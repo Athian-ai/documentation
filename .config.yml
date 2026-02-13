@@ -4,6 +4,6 @@ description: Public library for Athian governance and protocol documentation.
 baseurl: "https://athian-ai.github.io/documents"
 url: "https://athian-ai.github.io/documents"
 markdown: kramdown
-theme: minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed   

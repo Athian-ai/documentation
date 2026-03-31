@@ -18,6 +18,8 @@ The protocols included in this library are approved for use in an Athian program
 
 * [AjiPro-L](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_AjiPro-L_Protocol_Feb2025.pdf)
 * [Alternative Manure Management - AMMP](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_Alternative_Manure_Management_Protocol_Dec2025.pdf)
+* [AMMP + Bovaer Stacked](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_AMMP_Bovaer_Stacked_Protocol_March2026.pdf)
 * [Bovaer](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_Bovaer_Feed_Ingredient_Protocol_Sep2024.pdf)
+* [Bovaer + Rumensin Stacked](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_Bovaer_Rumensin_Stacked_Protocol_March2026.pdf)
 * [Digester Cap & Flare](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_Digester_Cap_Flare_Protocol_Jan2025.pdf)
 * [Rumensin](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_Rumensin_Protocol_Oct2023.pdf)

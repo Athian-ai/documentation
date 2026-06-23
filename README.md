@@ -1,9 +1,10 @@
 # Athian Documentation
 
-## Athian Governance Framework
+## Athian Governance
 This document defines the processes, procedures, and standards in place at Athian.
 
 * [Athian Governance Framework v1.2](https://github.com/Athian-ai/documentation/raw/refs/heads/main/governance/Athian%20Governance%20Framework%20V1.2.pdf) - current version
+* [Athian VVB Standards & Procedures 2026](https://github.com/Athian-ai/documentation/raw/refs/heads/main/governance/Athian%VVB%Standards%&%Procedures.pdf) - current version
 
 ## Athian Template Library
 These templates support a consistent, standardized reporting structure for project verifications and reflect the most recent approved versions in use. Templates are updated periodically to align with methodological, governance, and regulatory requirements.

@@ -21,6 +21,8 @@ The protocols included in this library are approved for use in an Athian program
 * [Alternative Manure Management - AMMP](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_Alternative_Manure_Management_Protocol_Mar2026.pdf)
 * [AMMP + Bovaer Stacked](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_AMMP_Bovaer_Stacked_Protocol_March2026.pdf)
 * [Bovaer](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_Bovaer_Feed_Ingredient_Protocol_Sep2024.pdf)
+* [Bovaer Global Dairy](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_Global_Bovaer_Feed_Ingredient_Protocol_Dairy_July2026.pdf)
+* [Bovaer Global Beef](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_Global_Bovaer_Feed_Ingredient_Protocol_Beef_July2026.pdf)
 * [Bovaer + Rumensin Stacked](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_Bovaer_Rumensin_Stacked_Protocol_March2026.pdf)
 * [Digester Cap & Flare](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_Digester_Cap_Flare_Protocol_Jan2025.pdf)
 * [Rumensin](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_Rumensin_Protocol_May2024.pdf)

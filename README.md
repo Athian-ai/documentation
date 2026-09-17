@@ -25,4 +25,5 @@ The protocols included in this library are approved for use in an Athian program
 * [Bovaer Global Beef](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_Global_Bovaer_Feed_Ingredient_Protocol_Beef_July2026.pdf)
 * [Bovaer + Rumensin Stacked](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_Bovaer_Rumensin_Stacked_Protocol_March2026.pdf)
 * [Digester Cap & Flare](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_Digester_Cap_Flare_Protocol_Jan2025.pdf)
+* [Livestock Water Recycling - LWR](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_Livestock_Water_Recycling_Protocol_Sep2026.pdf)
 * [Rumensin](https://github.com/Athian-ai/documentation/raw/refs/heads/main/protocols/Athian_Rumensin_Protocol_May2024.pdf)
